@@ -3,7 +3,7 @@
 wp-content/*/
 !wp-content/themes/
 wp-content/themes/*/
-!wp-content/themes/tp2/
+!wp-content/themes/theme-minji tp2/
 !wp-content/plugins/
 wp-content/plugins/*/
 !wp-content/plugins/carrousel/
